@@ -1,0 +1,19 @@
+body{
+  background-image: url(bg-image.jpg);
+  background-size: cover;
+
+}
+
+h1{
+color: #161D6F;
+font-size: 150%
+}
+
+h2{
+  color: #161D6F;
+}
+
+h3{
+color: #161D6F;
+font-size: 150%;
+}

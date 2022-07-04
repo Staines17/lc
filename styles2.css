@@ -1,0 +1,32 @@
+body{
+  background-image: url(images.jpg);
+  background-size: cover;
+}
+
+img{
+  height: 500px;
+}
+
+html, body{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+h1{
+top:0;
+  font-size: 80px;
+  color: #990000;
+}
+
+h4{
+  font-size: 25px;
+  color: #000000;
+}
+
+p{
+  color: #810955;
+  font-size: 23px;
+}
